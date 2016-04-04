@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick AND simple.
-new line
+It's a new line.
